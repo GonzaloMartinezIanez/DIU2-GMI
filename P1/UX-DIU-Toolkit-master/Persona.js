@@ -19,7 +19,7 @@ angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) {
         $scope.Grupo_ID ="DIU2.GMI";
         $scope.Curso ="2019/20";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/GonzaloMartinezIanez/DIU2-GMI";
 
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
