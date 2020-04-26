@@ -3,9 +3,12 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2.GMI.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Global Home
 
-Descripción: 
+Descripción: La nueva aplicación tiene un propósito muy similar al de couchsurfing, donde personas de distintas
+partes del mundo podrán o bien buscar un anfitrión donde alojarse o ofrecer su casa a otro usuario.
+La mayor diferencia con couchsurfing es que el objetivo no es de ocio sino académico donde las personas
+buscan otro alojamiento por trabajo o estudios.
 
 Logotipo: 
 
@@ -45,21 +48,21 @@ no tiene ese aspecto de red social que tiene couchsurfing. El diseño es minimal
 
 He creado a Agustín Puebla porque podría ser un candidato a usar couchsurfing y además puede poner a
 prueba el diseño de esta aplicación.
-https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Persona-agustin
+![Persona](P1/Persona-agustin.png)
 
 Alba Ibáñez cumple un papel como alguien más común que usaría esta web, no obstante no es
 experta en tecnología y podría tener algún problema.
-https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Persona-alba
+![Persona](P1/Persona-alba.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 Con este primer mapa, muestro como un usuario ofrece su casa a otro. La situación puede ser un
 poco forzada pero posible.
-https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Mapa-agustin
+![Mapa](P1/Mapa-agustin.png)
 
 En este mapa ocurre lo contrario, la usuario quiere viajar. En este caso el problema reside
 mayormente en factores externos a la web.
-https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Mapa-alba
+![Mapa](P1/Mapa-alba.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -99,30 +102,33 @@ No obstante, se fomentará el uso de otras formas de pago no monetarias.
 
 Los bocetos se encuentran en la memoria de la práctica 2: https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P2/MemoriaP2.pdf
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. Mi equipo UX-Case Study 
 
-
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
+En el ejemplo propuesto de MuseMap empiezan explicando al lector el objetivo de la aplicación que se va a desarrollar. Después se determinan las funcionalidades que tendrá como el público al que está enfocado, añadiendo un experimento realista de las experiencia que tendría el usuario final usando la aplicación. Para tener una visión más acertada realizan entrevistas a unos candidatos para comprender sus interes en esta aplicación.
 
+Al igual que lo desarrollado en la práctica dos, crean dos personas ficticias para que simulen la intereacción con la aplicación y encontrar los fallos. Para ello hacen mapas de experiencia.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+Con la idea general en mente empiezan a hacer bocetos generales, analizandolos hasta llegar a uno definitivo. Ahora solo falta elegir el estilo que tendrá la aplicación en cueanto a tipografía, color e iconos.
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+Si el resultado de este estudio es satisfactorio se empezará con el desarrollo de la aplicación. De lo contrario se puede volver a empezar de cero teniendo en cuenta los problemas de este primer diseño.
+
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-
-
->>> Plantear Landing Page 
+No se ha diseñado ningún logotipo, pero la idea es que sea elegante, minimalista y con los colores característicos de esta aplicación (Descritos en el apartado 3c).
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Los colores elegidos para la aplicación son tonos de azules claros:
+![colores](P3/colores.png)
 
->>> Estudio de Guidelines y Patrones IU a usar 
+La tipografía escogida es legible para que ningún usuario tenga algún problema además de formal:
+![tipografia](P3/tipografia.png)
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Video
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P3/video.mkv
 
 
 ## Paso 4. UX Check (Usability Testing) 
