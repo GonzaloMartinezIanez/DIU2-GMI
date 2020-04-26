@@ -29,26 +29,42 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Tras analizar tres webs de economía colaborativa he llegado a estas conclusiones:
+
+Badi: el objetivo de esta práctica es encontrar una web de economía colaborativa, pero esta web
+solo tiene la opción de encontrar u ofrecer una habitación por un precio. El resto de la web parece
+tener una buena organización y fácil de utilizar.
+Couchsurfing: he elegido esta web ya que tiene como misión que la gente conozca personas de su
+propia ciudad y de otras partes del mundo de una manera asequible. La propia aplicación web es
+muy intuitiva y fácil de utiliza.
+Compartetupiso: tiene una finalidad muy similar a couchsurfing, pero no la he escogido ya que esta
+no tiene ese aspecto de red social que tiene couchsurfing. El diseño es minimalista y acertado.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+He creado a Agustín Puebla porque podría ser un candidato a usar couchsurfing y además puede poner a
+prueba el diseño de esta aplicación.
+https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Persona-agustin
+
+Alba Ibáñez cumple un papel como alguien más común que usaría esta web, no obstante no es
+experta en tecnología y podría tener algún problema.
+https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Persona-alba
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Con este primer mapa, muestro como un usuario ofrece su casa a otro. La situación puede ser un
+poco forzada pero posible.
+https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Mapa-agustin
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+En este mapa ocurre lo contrario, la usuario quiere viajar. En este caso el problema reside
+mayormente en factores externos a la web.
+https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Mapa-alba
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+Revisión de usabilidad: https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P1/Couchsurfing.pdf
 
 
 ## Paso 2. UX Design  
@@ -57,43 +73,31 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+![Malla receptora](P2/Imagenes/malla.png)
+La nueva aplicación tiene un propósito muy similar al de couchsurfing, donde personas de distintas
+partes del mundo podrán o bien buscar un anfitrión donde alojarse o ofrecer su casa a otro usuario.
+La mayor diferencia con couchsurfing es que el objetivo no es de ocio sino que las personas deben
+buscar otro alojamiento por trabajo o estudios.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+La aplicación dejará a los usuarios la tarea de realizar un pago si es que estos acuerdan un precio.
+No obstante, se fomentará el uso de otras formas de pago no monetarias.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Malla receptora](P2/Imagenes/Site-map.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Malla receptora](P2/Imagenes/etiquetado.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+Los bocetos se encuentran en la memoria de la práctica 2: https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P2/MemoriaP2.pdf
 
 ## Paso 3. Make (Prototyping) 
 

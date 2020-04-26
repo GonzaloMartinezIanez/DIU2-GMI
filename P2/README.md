@@ -1,4 +1,4 @@
-DIU - Practica2, entregables
+DIU - Practica2
 
 Malla receptora de información 
 Sitemap & Task flow 

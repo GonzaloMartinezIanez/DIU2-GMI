@@ -1,7 +1,4 @@
-## DIU - Practica1, entregables
-
-
-
+## DIU - Practica1
 
 - Desk research: Análisis Competencia 
 - 2 Personas 
