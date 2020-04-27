@@ -3,10 +3,10 @@
 MuseMap fue ideada para dar a conocer a los artistas callejeros de la ciudad de Londres.
 
 Un grupo de tres diseñadores realizan un análisis para diseñar esta futura aplicación. Para ello plantean una serie de ejercicios:
-	- Se plantean unos objetivos que cumplirá la aplicación.
-	- Proponen ideas para la futura y funcionalidades.
-	- Piensan desde la perspectiva del usuario sobre que es lo que buscan en la aplicación.
-	- Realizan una investigación en un ambiente realista para ver como actúan las personas y sacar conclusiones
+Se plantean unos objetivos que cumplirá la aplicación.
+Proponen ideas para la futura y funcionalidades.
+Piensan desde la perspectiva del usuario sobre que es lo que buscan en la aplicación.
+Realizan una investigación en un ambiente realista para ver como actúan las personas y sacar conclusiones
 
 ### Análisis de competencias
 Al igual que en la práctica 1, analizan otras aplicaciones existentes que tienen objetivos similares para ver que es lo que se ofrece a día de hoy. Con esto extraen los puntos fuertes para tomar inspiración.
@@ -44,10 +44,10 @@ El objetivo de encontrar un patrón de diseño apto es buscar aquellos que muest
 En cuento a las barras de búsqueda, se espera que tengan una ayuda al escribir para hacer la experiencia de usuario más fácil. Además como se vé en los bocetos cada página tiene la información justa, para evitar 
 
 ### Tipografía:
-	- Queremos que todos los usuarios puedan disfrutar de una óptima experiencia al usar la aplicación para ello se empleará una tipografía clara y suficientemente grande. Siguiendo el standard de Google, se recomienda usar un tamaño de letra mínimo de 16 puntos para el texto del cuerpo.
-	- Para los títulos se recomienda tener un tamaño de letra mayor para poder que se pueda distinguir con el cuerpo, no obstante el tamaño de un dispositivo móvil es reducido y los títulos deberán ser lo más breves posibles para que no ocupen más de 3 líneas.
-	- El color de letra varía dependiendo del color del fondo para que esta se pueda leer de manera más clara.
-	- La fuente de la letra debe se estar acorde a la temática de la aplicación. En el caso de nuestra aplicación, se escogerá un tipo de letra formal.
+Queremos que todos los usuarios puedan disfrutar de una óptima experiencia al usar la aplicación para ello se empleará una tipografía clara y suficientemente grande. Siguiendo el standard de Google, se recomienda usar un tamaño de letra mínimo de 16 puntos para el texto del cuerpo.
+Para los títulos se recomienda tener un tamaño de letra mayor para poder que se pueda distinguir con el cuerpo, no obstante el tamaño de un dispositivo móvil es reducido y los títulos deberán ser lo más breves posibles para que no ocupen más de 3 líneas.
+El color de letra varía dependiendo del color del fondo para que esta se pueda leer de manera más clara.
+La fuente de la letra debe se estar acorde a la temática de la aplicación. En el caso de nuestra aplicación, se escogerá un tipo de letra formal.
 	
 ![Tipografia] (tipografia.png)
 	
