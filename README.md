@@ -130,70 +130,31 @@ La tipografía escogida es legible para que ningún usuario tenga algún problem
 ----
 https://github.com/GonzaloMartinezIanez/DIU2-GMI/tree/master/P3/video.mkv
 
+## Paso 4. Evaluación 
 
-## Paso 4. UX Check (Usability Testing) 
 
-
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
+Caso 1: [DIU1.HOOKAH](https://github.com/raulsoria98/DIU20)
 
+Caso 2: [DIU2.JVG](https://github.com/Jovalga/DIU20)
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
-
->>>> Práctica A: 
+Caso 3: [DIU3.Crescendum](https://github.com/Mxgang/DIU20)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas 
+Caso 1: Agustín ha organizado un viaje a Australia con otro usuario de la aplicación, una vez comprado el billete de avión y organizado los evento para el viaje, el grupo de viaje se disuelve y no sabe donde acudir para que le devuelvan el dinero.
 
+Caso 2: Agustín quiere explorar nuevas experiencia y alquilar una habitación en un país extranjero y una vez elegido el candidato se da cuenta de que no puede entablar conversación con él porque hablan distintos idiomas.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Caso 3: Agustín ha reservado una ruta culinaria por el centro de Granada, pero se puso enfermo el día del evento. Sumando su poco manejo con las  nuevas tecnologías y el hecho de que se encuentra enfermo, Agustín no encuentra la opción para cancelar el evento.
 
+![Método UX](img/Survey.png). 4.c Ranking
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
+La puntuación de los tres grupos analizados queda de la siguiente manera:
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
+1º DIU2.JVG (86 puntos)
+2º DIU3.Crescendum (83 puntos)
+3º DIU1.HOOKAH (64 puntos)
